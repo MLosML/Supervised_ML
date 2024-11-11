@@ -1,4 +1,4 @@
-** Supervised_ML**
+**Supervised_ML**
 
 In real estate: pricing is a central aspect to the business. Traditionally, it’s the domain of home appraisers to determine the value of a property, which must be executed in an unbiased way, following an official criteria to ensure that there is no favour towards either the buyer or the seller..
 
