@@ -24,4 +24,5 @@ In each phase, we’ll follow a structured Machine Learning workflow:
 
 This process isn’t strictly linear; it’s agile and iterative. After an initial Minimum Viable Product (MVP) is developed, we can refine the model through further iterations, incorporating more features and improving performance. We’ll start with a basic classification solution and gradually enhance it as we progress toward the regression phase.
 
+![image](https://github.com/user-attachments/assets/2903b925-f8b0-4dc1-a299-9bc0da8e41af)
 
