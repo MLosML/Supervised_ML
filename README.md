@@ -13,6 +13,14 @@ This real estate consultancy project will be conducted in two primary phases:
 	1.	Classification Phase: The goal is to predict whether a house is “Expensive” or “Not expensive.” This is a classification task, meaning the model’s output is categorical. This phase allows for straightforward evaluation: predictions are either correct or incorrect, which simplifies measuring accuracy.
 	2.	Regression Phase: Here, the model will predict the exact price of the house in dollars, making it a regression task. Since exact values are rarely predicted perfectly, this phase will focus on minimizing prediction error, aiming to get as close as possible to the true value.
 
+
+![image](https://github.com/user-attachments/assets/6819b39a-59a5-4e4f-ad93-d87795c31201)
+
+
+![image](https://github.com/user-attachments/assets/c9fd1c8e-c7b8-424d-a35f-6928aa558452)
+
+
+
 In each phase, we’ll follow a structured Machine Learning workflow:
 
 	1.	Understanding the Context: This means researching housing price determinants and characteristics specific to Ames, Iowa, as well as understanding the features in the dataset (e.g., the types of roof materials and their relevance to pricing).
